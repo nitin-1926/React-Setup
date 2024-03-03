@@ -1,11 +1,16 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + Router + Redux + Saga
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. Along with prettier configuration, this setup also provides a start for the react router and the redux toolkit.
 
-Currently, two official plugins are available:
+## Router setup
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A basic routing has been setup with some routes in a sidebar and different modules getting called as per setup
+
+## Redux setup
+
+Redux has been setup along with sagas. Actions, reducers and store is connected.
+A sample action is created to change the theme of the Application.
+Ant design (https://ant.design/) has been used to create UI component and setup the app themeing.
 
 ## Expanding the ESLint configuration
 

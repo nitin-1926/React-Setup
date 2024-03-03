@@ -2,6 +2,9 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. Along with prettier configuration, this setup also provides a start for the react router and the redux toolkit.
 
+<img width="1440" alt="Screenshot 2024-03-03 at 10 58 11 PM" src="https://github.com/nitin-1926/React-Setup/assets/44253685/e525e7d4-ee0f-40f9-82a9-9bd964010e66">
+
+
 ## Router setup
 
 A basic routing has been setup with some routes in a sidebar and different modules getting called as per setup

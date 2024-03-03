@@ -37,7 +37,7 @@ const App: React.FC = () => {
 						<Router />
 					</Content>
 					<Footer style={{ textAlign: 'center' }} hidden>
-						Wardrobe ©{new Date().getFullYear()} Created with ❤️ by Wardrobe Team
+						Nitin ©{new Date().getFullYear()} Created with 😫 by Nitin Gupta
 					</Footer>
 				</Layout>
 			</Layout>
